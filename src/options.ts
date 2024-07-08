@@ -57,8 +57,8 @@ interface Template {
 }
 
 const templates: Template[] = [
-  { value: 'react-cfg-vite', name: 'React with CFG SDK & ViteJS (Recommended)' }
-  // { value: 'vanilla-ts-tailwind', name: 'Vanilla TypeScript with TailwindCSS' },
+  { value: 'react-cfg-vite', name: 'React with CFG SDK & ViteJS (Recommended)' },
+  { value: 'react-cfg-webpack', name: 'React with CFG SDK & Webpack' },
   // { value: 'lit-ts', name: 'Lit' },
   // { value: 'lit-ts-tailwind', name: 'Lit with TailwindCSS' },
   // { value: 'react-ts', name: 'React' },
