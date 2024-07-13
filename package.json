@@ -1,6 +1,6 @@
 {
   "name": "@susanta96/create-setup",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A CLI to bootstrap new vite-based TypeScript projects",
   "type": "module",
   "main": "dist/index.js",
