@@ -9,3 +9,5 @@ examples
 playground
 
 CHANGELOG.md
+*.java
+*.py
